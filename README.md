@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="./etc/assets/baibot.svg" alt="baibot logo" width="150" />
-	<h1 align="center">baibot</h1>
+	<h1 align="center">baibot (RealAGI Flavored)</h1>
 </p>
 
 🤖 baibot is an [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) ([Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)) bot for [Matrix](https://matrix.org/) built by [etke.cc](https://etke.cc/) (managed Matrix servers).
